@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 1) Clone this repository:
 
-git clone https://github.com/your-username/ebl-matches-scraper.git
+git clone [https://github.com/your-username/ebl-matches-scraper.git](https://github.com/UsmanMatheen/Web-Scraping/tree/main/Web%20Scraping%20Football%20matches%20from%20the%20EPL)
 
 2) Navigate to the project directory:
 
